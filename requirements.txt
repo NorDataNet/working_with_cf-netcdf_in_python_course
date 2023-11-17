@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+xarray
+pandas
+uuid
+datetime
